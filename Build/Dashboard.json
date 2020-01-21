@@ -1,0 +1,13 @@
+{
+"companyName": "Peili Vision",
+"productName": "Peili Vision",
+"dataUrl": "Dashboard.data.unityweb",
+"wasmCodeUrl": "Dashboard.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dashboard.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
