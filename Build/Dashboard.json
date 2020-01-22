@@ -4,7 +4,7 @@
 "dataUrl": "Dashboard.data.unityweb",
 "wasmCodeUrl": "Dashboard.wasm.code.unityweb",
 "wasmFrameworkUrl": "Dashboard.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 134217728,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
